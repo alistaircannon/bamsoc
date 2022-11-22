@@ -1,7 +1,7 @@
 ---
 marp: true
 title: What is a clinical informatician? 
-description: Presentation at Birhimgham Academic Medicine Society conferece 2023 
+description: Presentation at Birmingham Academic Medicine Society conferece 2023 
 theme: example 
 paginate: true
 _paginate: false 
